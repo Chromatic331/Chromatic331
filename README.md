@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hello! 👋
+
+My name is Parker, I'm a graduate student in Information Science. 
+
+I'm a novice at coding, but I look forawrd to improving my skills!
 
 <!--
 **Chromatic331/Chromatic331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
