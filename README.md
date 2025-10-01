@@ -1,6 +1,6 @@
 ## Hello! 👋
 
-My name is Parker, I'm a graduate student in Information Science. 
+My name is Parker, I'm a graduate student in Information Science. I enjoy RPGS and have used github to create projects for games I have been a part of!
 
 I'm a novice at coding, but I look forawrd to improving my skills!
 
