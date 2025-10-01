@@ -1,8 +1,9 @@
 ## Hello! 👋
 
-My name is Parker, I'm a graduate student in Information Science. I enjoy RPGS and have used github to create projects for games I have been a part of!
+My name is Parker, I'm a graduate student in Information Science.
+I enjoy RPGS and have used github to create projects for games I have been a part of!
 
-I'm a novice at coding, but I look forawrd to improving my skills!
+I'm a novice at coding, but I look forward to improving my skills!
 
 <!--
 **Chromatic331/Chromatic331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
