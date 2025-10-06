@@ -6,6 +6,10 @@ I enjoy RPGS and have used github to create [projects](https://voidseaphilly.com
 
 I'm a novice at coding, but I look forward to improving my skills!
 
+<~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~>
+
+Interested in learning: [JavaScript](https://github.com/topics/javascript)
+
 <!--
 **Chromatic331/Chromatic331** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
